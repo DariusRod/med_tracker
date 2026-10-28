@@ -1,0 +1,5 @@
+# Keep the Unix wrapper script runnable on macOS/Linux and binaries untouched.
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.png binary

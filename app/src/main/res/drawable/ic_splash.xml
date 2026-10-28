@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash icon: the launcher capsule on a teal disc, sized for the splash icon mask. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="@color/brand_teal"
+        android:pathData="M54,54m-34,0a34,34 0,1 1,68 0a34,34 0,1 1,-68 0" />
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="45"
+        android:scaleX="0.8"
+        android:scaleY="0.8">
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M41,39A13,13 0,0 1,67 39L67,54L41,54Z" />
+        <path
+            android:fillColor="#FF9DF0F5"
+            android:pathData="M41,55L67,55L67,69A13,13 0,0 1,41 69Z" />
+    </group>
+</vector>
